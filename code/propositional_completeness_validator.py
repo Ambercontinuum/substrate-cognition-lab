@@ -1,23 +1,3 @@
-"""
-PROPOSITIONAL COMPLETENESS VALIDATION FRAMEWORK
-================================================
-
-A computational tool for validating the completeness of propositional
-representations across different semantic dimensions.
-
-This framework provides:
-- Information-theoretic analysis of semantic spaces
-- Validation of truth-preserving transformations
-- Measurement of structural preservation in formal systems
-- Empirical testing of completeness claims
-
-Useful for verifying that deductive reasoning handles all structural
-dimensions as claimed in formal arguments.
-
-Author: Collaborative Research Framework
-Date: November 25, 2025
-"""
-
 import numpy as np
 from typing import Tuple, List, Dict, Any
 from dataclasses import dataclass
