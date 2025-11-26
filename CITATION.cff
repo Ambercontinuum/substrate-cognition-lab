@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Substrate Cognition Lab: Propositional Completeness Validator and Cognitive Misalignment Framework"
+authors:
+  - family-names: "Anson"
+    given-names: "Amber"
+  - name: "Claude Sonnet 4.5"
+    affiliation: "Anthropic AI System"
+  - name: "ChatGPT (GPT-5.1)"
+    affiliation: "OpenAI Model"
+version: "1.0.0"
+date-released: "2025-11-25"
+repository-code: "https://github.com/Ambercontinuum/substrate-cognition-lab"
+abstract: >
+  This repository contains scientific materials for evaluating cognitive modeling completeness across
+  substrate and propositional systems. It includes two research papers—P(DOOM) Reframed and P(DOOM) = P(BLOOM)—
+  introducing a measurement-guided framework to understand present-state misalignment through information-theoretic
+  incompleteness, along with a Python validator tool for evaluating representational coverage and reconstruction
+  fidelity in AI systems.
+keywords:
+  - artificial intelligence safety
+  - cognitive validation
+  - misalignment measurement
+  - information theory
+  - substrate cognition
+license: "Apache-2.0"
