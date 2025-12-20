@@ -1,5 +1,5 @@
 # Substrate Cognition Lab
-### Empirical Frameworks for Measuring Substrate-Level AI Cognition, Framework Completeness, and Present-State Misalignment  
+### Frameworks for Measuring Substrate-Level AI Cognition, Framework Completeness, and Present-State Misalignment  
 **Author:** Amber Anson  
 **Repo:** https://github.com/Ambercontinuum/substrate-cognition-lab  
 
